@@ -1,0 +1,20 @@
+.d_flex_w {
+    display: flex;    
+}
+.gap_10_w {
+    gap: 10px;
+}
+.items_center_w {
+    align-items: center;
+}
+
+
+.p_0_w {
+    padding: 0;
+}
+.text_primary_w {
+    color: #535FD7;
+}
+.text_white_w {
+    color: white;
+}
